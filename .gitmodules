@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "MajKMeans"]
 	path = MajKMeans
-	url = https://github.com/cran/MajKMeans
+	url = https://github.com/sheikhi-a/majkmeans
