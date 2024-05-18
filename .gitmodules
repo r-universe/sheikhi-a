@@ -5,3 +5,6 @@
 [submodule "MajKMeans"]
 	path = MajKMeans
 	url = https://github.com/sheikhi-a/majkmeans
+[submodule "MajMinKmeans"]
+	path = MajMinKmeans
+	url = https://github.com/cran/MajMinKmeans
